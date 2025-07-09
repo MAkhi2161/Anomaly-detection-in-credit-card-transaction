@@ -120,6 +120,4 @@ You can find the appropriate notebooks related to each approach in the above com
 
 ---
 
-### Author
-
-Developed by **Teja Sri Koduru 🚀**
+**BY AKHILA MARISETTY**
